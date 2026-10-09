@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=220&section=header&text=Hi%20there,%20I'm%20Navaneeth%20Rajesh%20👋&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MCA%20Scholar%20%7C%20Tech%20Enthusiast&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:3B82F6,100:06B6D4&height=220&section=header&text=Hi%20there,%20I'm%20Navaneeth%20Rajesh%20👋&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MCA%20Scholar%20%7C%20Tech%20Enthusiast&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/navaneeth-rajesh">
@@ -188,5 +188,5 @@ quote: "Turning ideas into scalable, efficient, and user-centric software."
 
 <div align="center">
   <!-- Footer Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,11,6&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:6366F1&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
