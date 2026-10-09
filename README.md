@@ -132,29 +132,6 @@ quote: "Turning ideas into scalable, efficient, and user-centric software."
   </table>
 </div>
 
----
-
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=navaneeth-rajesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="GitHub Stats" width="410" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=navaneeth-rajesh&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8" alt="Streak Stats" width="410" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneeth-rajesh&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="410" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## 📜 Education & Certifications
 
